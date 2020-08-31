@@ -1,3 +1,7 @@
+## To start a project use "npm install"
+
+## To start a project use "npm start"
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
