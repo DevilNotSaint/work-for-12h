@@ -1,0 +1,24 @@
+// Color Theme
+$background_color: #111111;
+$title_color: #f22233; //
+$text_color: #f2efe4; // or #f25c5c or #f23030
+//----------------------
+
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+@mixin title_Font {
+  font-family: 'Russo One', sans-serif;
+  font-size: 4rem;
+  letter-spacing: 0.5rem;
+  color: $title_color;
+}
+//--------------------
+
+// Ul's
+// @mixin ul_Style {
+//   background-color: #fff;
+//   color: $text_color;
+//   padding: 0 0 0 2%;
+// }
+//--------------------
